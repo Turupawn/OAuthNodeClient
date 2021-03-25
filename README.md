@@ -3,7 +3,7 @@
 # Dependencies
 
 ```bash
-npm install
+npm install simple-oauth2
 ```
 
 # Usage
